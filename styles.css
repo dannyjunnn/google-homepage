@@ -1,0 +1,35 @@
+#logo {
+	width: 272px;
+	padding-top: 109px;
+}
+
+.logo, .search_field {
+	display: block;
+	text-align: center;
+}
+
+#search {
+	width: 403px;
+	height: 38px;
+	font: 16px arial,sans-serif;
+	padding: 6px 9px 0 16px;
+}
+
+form {
+	margin: 30px;
+}
+
+.submit {
+	margin: 15px;
+	font-size: 11px;
+}
+
+input {
+	-webkit-appearance: none
+}
+
+#submit, #lucky {
+	height: 30px;
+	padding: 0 16px;
+	margin: 11px 4px;
+}
